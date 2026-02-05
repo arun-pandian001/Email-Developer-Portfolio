@@ -1,4 +1,4 @@
-# Hi, I'm Arun Pandian | Email Developer ✉️
+# Hi, I'm Arun Pandian  | Email Developer ✉️
 
 Email Developer based in Chennai, specializing in MJML and Responsive HTML. I build emails that look great on every device and every inbox.
 
@@ -14,10 +14,9 @@ Click the links below to see my responsive email designs in action:
 | Lifestyle Brand | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/lifestyle-brand-newsletter.html) | [MJML](./lifestyle-brand-newsletter.mjml) |
 | Transactional Receipt | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/transaction-order-receipt.html) | [MJML](./transaction-order-receipt.mjml) |
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 - Frameworks: MJML
 - Coding: Responsive HTML, Email-safe CSS
-- Tools: GitHub, Photoshop (for assets)
-
----
-📫 Let's Connect: [Your LinkedIn Profile Link Here]
+- Asset Optimization: iLoveIMG (Compression), Remove.bg (BG Removal)
+- Asset Management: ImgBB (Cloud Hosting)
+- Version Control: GitHub
