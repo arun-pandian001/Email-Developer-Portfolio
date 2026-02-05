@@ -1,0 +1,72 @@
+<mjml>
+  <mj-body background-color='#f0f0f0'>
+    <mj-section full-width='full-width' background-color='darkgreen'>
+      <mj-group>
+        <mj-column vertical-align='middle' width='40%' padding='0px'>
+          <mj-social align='right' padding='0px'>
+            <mj-social-element src='https://i.ibb.co/9m4bZwCf/4765652-2496508-1.jpg' alt='logo.jpg' icon-size='50px' border-radius='50px'></mj-social-element>
+          </mj-social>
+        </mj-column>
+        <mj-column width='60%' padding='0px' vertical-align='middle'>
+          <mj-text align='left' font-size='19px' padding='10px' color='white'>DAILY GRIND <br /> COFEE CO.</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align='center' color='darkgreen' font-size='20px' font-weight='bold' letter-spacing='4px'>YOUR ORDER IS <BR /> CONFIRMED !</mj-text>
+        <mj-text align='center' font-size='15px' letter-spacing='2px'>HI [Name], your cofee is the way!</mj-text>
+        <mj-button background-color='yellow' color='black' font-size='14px' href='#'>TRACK YOUR ORDER</mj-button>
+        <mj-table>
+          <tr>
+            <td style="padding-top:20px; width:30%;">
+              <img src="https://i.ibb.co/Vc1qTJwV/cofee-bag.jpg" width="80" alt="cofeebag.jgp" />
+            </td>
+            <td style="text-align:left; vertical-align:middle; font-weight:bold; font-size:15px; color:darkgreen; padding-left:10px; width:40%;">VELVET ROAST</td>
+            <td style="text-align:right; font-weight:bold; color:darkgreen; font-size:13px; padding-top:10px; width:30%;">$18.09<br />X1</td>
+          </tr>
+          <tr>
+            <td style="padding-top:25px; width:30%;">
+              <img src="https://i.ibb.co/S7M3zghB/bottle-4.jpg" width="80" alt="bottle.jpg" />
+            </td>
+            <td style="text-align:left; vertical-align:middle; font-weight:bold; font-size:15px; color:darkgreen; padding-left:10px; width:40%;">ARTIC BREW</td>
+            <td style="text-align:right; font-weight:bold; color:darkgreen; font-size:13px; vertical-align:middle; width:30%;">X2</td>
+          </tr>
+          <tr>
+            <td colspan="3" style="padding:10px;"></td>
+          </tr>
+          <tr style="border-top:1px solid #eee;">
+            <td colspan="2" style="color:darkgreen; font-size:12px; font-weight:bold; text-align:left; padding:5px 10px;">SHIPPING</td>
+            <td style="color:darkgreen; font-size:12px; font-weight:bold; text-align:right; padding:5px 0px;">$5.00</td>
+          </tr>
+          <tr>
+            <td colspan="2" style="color:darkgreen; font-size:12px; font-weight:bold; text-align:left; padding:5px 10px;">SUB TOTAL</td>
+            <td style="color:darkgreen; font-size:12px; font-weight:bold; text-align:right; padding:5px 0px;">$18.09</td>
+          </tr>
+          <tr>
+            <td colspan="2" style="color:darkgreen; font-size:14px; font-weight:bold; text-align:left; padding:10px 10px;">TOTAL</td>
+            <td style="color:darkgreen; font-size:14px; font-weight:bold; text-align:right; padding:10px 0px;">$23.09</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width='full-width' background-color='darkgreen' padding='10px 0px'>
+      <mj-group width='100%'>
+        <mj-column vertical-align='middle' width='23%'>
+          <mj-image src='https://i.ibb.co/9m4bZwCf/4765652-2496508-1.jpg' align='left' border-radius='50%' width='40px' padding='0px'></mj-image>
+        </mj-column>
+        <mj-column vertical-align='middle' width='49%'>
+          <mj-social align='center' icon-size='30px' border-radius='50%' align='center' inner-padding='9px' padding='0px'>
+            <mj-social-element name='facebook' href='#'></mj-social-element>
+            <mj-social-element name='youtube' href='#'></mj-social-element>
+            <mj-social-element name='instagram' href='#'></mj-social-element>
+          </mj-social>
+        </mj-column>
+        <mj-column vertical-align='middle' width='28%'>
+          <mj-text align='right' padding='0px'><a href='#' style='color:white;text-decoration:none;font-size:11px'>unsubscribe</a></mj-text>
+          <mj-text align='right' padding='0px' padding-top='4px'><a href='#' style='color:white;text-decoration:none;font-size:11px'>View in Browser</a></mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
