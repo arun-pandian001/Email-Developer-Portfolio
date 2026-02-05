@@ -1,20 +1,23 @@
-# Hi, I'm Arun Pandian | Email Developer 📧
+# Hi, I'm Arun Pandian | Email Developer ✉️
 
-Email Developer based in Chennai, specializing in MJML and Responsive HTML templates.
+Email Developer based in Chennai, specializing in MJML and Responsive HTML. I build emails that look great on every device and every inbox.
 
 ## 🚀 My Work (Live Previews)
 
-Click the links below to see my responsive email designs live in your browser:
+Click the links below to see my responsive email designs in action:
 
 | Project Name | Live Preview | Source |
 | :--- | :--- | :--- |
-| Apple Vision Pro | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/apple%20vision%20pro.html.html) | [MJML](./apple-vision-pro.mjml) |
+| Apple Vision Pro | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/apple-vision-pro.html) | [MJML](./apple-vision-pro.mjml) |
 | Vivo Promo | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/vivo-promo-email.html) | [MJML](./vivo-promo-email.mjml) |
-| Style Hub Sale | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/style-hub-flash-sale.html.html) | [MJML](./style-hub-flash-sale.mjml) |
-| Lifestyle Brand | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/lifestyle-brand-newsletter.html.html) | [MJML](./lifestyle-brand-newsletter.mjml) |
-| Transactional Receipt | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/Transactional-order-email.html.html) | [MJML](./transacation-order-receipt.mjml) |
+| Style Hub Sale | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/style-hub-flash-sale.html) | [MJML](./style-hub-flash-sale.mjml) |
+| Lifestyle Brand | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/lifestyle-brand-newsletter.html) | [MJML](./lifestyle-brand-newsletter.mjml) |
+| Transactional Receipt | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/transaction-order-receipt.html) | [MJML](./transaction-order-receipt.mjml) |
 
-## 🛠 Skills
+## 🛠️ Skills
 - Frameworks: MJML
-- Coding: Responsive HTML5, Email Inline CSS
-- Design: Mobile-First Approach
+- Coding: Responsive HTML, Email-safe CSS
+- Tools: GitHub, Photoshop (for assets)
+
+---
+📫 Let's Connect: [Your LinkedIn Profile Link Here]
