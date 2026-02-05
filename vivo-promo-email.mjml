@@ -1,0 +1,88 @@
+<mjml>
+  <mj-body background-color="#ffffff">
+    <mj-section background-color="red">
+      <mj-column>
+        <mj-image src="https://i.ibb.co/1f2ztK6q/Screenshot-6.png" alt="Screenshot-6" border="0" width="80px" align="center"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="red">
+      <mj-group>
+        <mj-column padding-left="15px" padding-right="15px" vertical-align='middle' width='40%'>
+          <mj-image src="https://i.ibb.co/23vygqnr/Screenshot-7.png" width="140px" padding='0px' border-radius="10px" align='right'>
+          </mj-image>
+        </mj-column>
+        <mj-column padding-left="5px" padding-right="10px" width="60%" vertical-align='middle'>
+          <mj-text color="white" padding-bottom='5px' align='center' padding='0px' padding-right='75px'> GUESS WHAT?</mj-text>
+          <mj-text color="white" font-family='arial' font-size="20px" line-height="25px" letter-spacing="2px" align='center' padding-top='3px' font-weight='bold' padding='0px'> Free Shipping </mj-text>
+          <mj-text font-size="20px" align='center' padding='0px' color='white' letter-spacing='2px' padding-right='20px'>on Orders up</mj-text>
+          <mj-text font-size="20px" align='center' padding='0px' color='white' line-height='25px'>to <span style='color:yellow;padding-right:90px;'>$500</span> </mj-text>
+          <mj-button border-radius="20px" width="165px" background-color="yellow" color="brown" font-size="14px" font-weight="bold" inner-padding='7px' align='center' padding='0px' padding-top='10px'>CLAIM NOW</mj-button>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#f0f0f0" padding-top="15px" padding-left="7px" padding-right="5px">
+      <mj-column>
+        <mj-text font-weight="bold" font-size="19px">Hi there,</mj-text>
+        <mj-text line-height="24px" font-family="arial" font-size="16px">we`re excited to announce that <span style="font-weight:bold;"> we are now offering free shipping on <br /> orders up to $500 for all customers in the united states </span> this means <br />that you can now get your favourite products delivery to your door without <br /> having to pay a penny for shipping</mj-text>
+        <mj-button align="left" color="white" background-color="red" border-radius="20px">LEARN MORE</mj-button>
+        <mj-divider border-width="1px" padding-top="30px" border-style="dotted"></mj-divider>
+    </mj-section>
+    <mj-section padding-left='15px' padding-right="15px" background-color='#f0f0f0'>
+      <mj-group>
+        <mj-column width="60%" vertical-align='top'>
+          <mj-text font-size="17px" font-weight="Bold" line-height="19px" font-family="arial">This is a great <br /> opportunity</mj-text>
+          <mj-text line-height="25px" font-size="16px">stock up on your favourite products or to try somethings new without having to worry about the <br />shopping costs </mj-text>
+        </mj-column>
+        <mj-column width='40%' vertical-align='middle' padding-top='50px'>
+          <mj-image src="https://i.ibb.co/pvbN7d4y/Screenshot-9.png" padding='0px' width='350px' align='center'></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color='darkgreen'>
+      <mj-group>
+        <mj-column width="33.3%" vertical-align="top">
+          <mj-image src='https://i.ibb.co/Gv2xsTX7/Screenshot-15-1.png' border-radius='19px' width="70px" align='center' alt='happy.png'>
+          </mj-image>
+          <mj-text color='white' align='center' letter-spacing='3px' line-height='10px' padding="30px 0px">Happiness guaranteed</mj-text>
+        </mj-column>
+        <mj-column width="33.3%" vertical-align="top">
+          <mj-image src='https://i.ibb.co/MkzyGv04/Screenshot-14.png' width="70px" border-radius='19px' align='center' alt="deliver.png">
+          </mj-image>
+          <mj-text color='white' align='center' letter-spacing='3px' line-height='15px' padding="24px 0px" padding-left="15px">Quick delivery</mj-text>
+        </mj-column>
+        <mj-column width="33.3%" vertical-align="top">
+          <mj-image src='https://i.ibb.co/VWQK2Knx/Screenshot-13.png' width="70px" border-radius='19px' align='center' alt="package.png">
+          </mj-image>
+          <mj-text color='white' align='center' letter-spacing='3px' line-height='15px' padding="24px 0px" padding-left="10px">Safe packaging</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="red">
+      <mj-group>
+        <mj-column width="32%">
+          <mj-text align="center" font-size='15px'><a href='#' style="color:white;">About</a></mj-text>
+        </mj-column>
+        <mj-column width="31%">
+          <mj-text align="center" font-size="15px"><a href='#' style="color:white;">Deals</a></mj-text>
+        </mj-column>
+        <mj-column width="37%">
+          <mj-text align="center" font-size="15px"><a href='#' style="color:white;">Location</a></mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="red" padding-left="15px" padding-right="15px">
+      <mj-column width="50%">
+        <mj-text color="white" font-size='14px'>company Name <br /> <br />Add your company postal address here</mj-text>
+        <mj-social align="left" padding-top="20px">
+          <mj-social-element name="facebook" href="www.facebook.com"></mj-social-element>
+          <mj-social-element name="twitter" href="www.twitter.com"></mj-social-element>
+          <mj-social-element name="instagram" href="www.instagram.com"></mj-social-element>
+        </mj-social>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-text color="white" line-height="1.6" font-size='14px'>You received this email because you signed up on our website or made a purchase from us</mj-text>
+        <mj-text><a href="#" style="color:white;">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
