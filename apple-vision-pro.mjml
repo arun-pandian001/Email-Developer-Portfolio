@@ -1,0 +1,80 @@
+<mjml>
+  <mj-body background-color='black'>
+    <mj-section background-color='black' full-width='full-width' padding='0px'>
+      <mj-column vertical-align='middle'>
+        <mj-text color='white' padding='15px' align='left' font-size='29px' font-weight='bold'>VISION PRO</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color='#1A1A1A' full-width='full-width'>
+      <mj-column width='50%' vertical-align='middle' padding='0px' vertical-align='middle'>
+        <mj-image src='https://i.ibb.co/TDF7G2zY/photo-2026-02-01-09-49-00-removebg-preview-1-1.png' padding='10px' align='center'></mj-image>
+        <mj-text color='white' padding-left='0px' font-size='26px' font-weight='800' align='left' letter-spacing='2px' padding-top='80px'> BEYOND POWER. </mj-text>
+        <mj-button align='right' background-color='transparent' border='1px solid white' href='#' padding-top='5px' padding-right='0px'>PRE-ORDER NOW</mj-button>
+      </mj-column>
+      <mj-column width='50%' vertical-align='top' padding-top='65px' padding-left='20px'>
+        <mj-group>
+          <mj-column width='33%'>
+            <mj-image src='https://i.ibb.co/HTRdM8hK/photo-2026-02-01-13-46-03-removebg-preview.png'></mj-image>
+            <mj-text padding-top='0px' color='white' padding='0px' align='center'>Spatial <br />Audio </mj-text>
+          </mj-column>
+          <mj-column width='33%'>
+            <mj-image src='https://i.ibb.co/sJ1YwxGG/photo-2026-02-01-13-46-01-removebg-preview.png'>
+            </mj-image>
+            <mj-text padding-top='0px' color='white' padding='0px' align='center'>Dual-chip <br />Design</mj-text>
+          </mj-column>
+          <mj-column width='33%'>
+            <mj-image src='https://i.ibb.co/LhHJbGhp/photo-2026-02-02-16-46-56-removebg-preview-1.png' padding='9px'></mj-image>
+            <mj-text padding-top='0px' color='white' padding='0px' align='center'>Infinity<br />Canvas</mj-text>
+          </mj-column>
+          <mj-section>
+            <mj-column vertical-align='middle'>
+              <mj-image src='https://i.ibb.co/Jj5wTMcC/photo-2026-02-01-09-48-50-removebg-preview-1-1-1-1.png' padding='20px' padding-top='40px'> </mj-image>
+            </mj-column>
+          </mj-section>
+        </mj-group>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color='black' full-width='full-width' padding-bottom='0px'>
+      <mj-column width="100%">
+        <mj-text color="#ffffff" font-size="18px" font-weight="bold" padding-bottom="15px" align='left'> SPECIFICATIONS </mj-text>
+        <mj-table color="#ffffff" font-size="14px" line-height="25px" padding='0px'>
+          <tr style="border-bottom:1px solid #444; text-align:left;">
+            <td style="padding: 12x 0px; color: #aaa; font-weight:bold;padding-bottom:12px">Display </td>
+            <td style="padding: 12px 10;padding-bottom:12px" width='44%'>Micro-OLED, 23 million pixels</td>
+          </tr>
+          <tr style="border-bottom:1px solid #444; text-align:left;">
+            <td style="padding: 12px 0; color: #aaa; font-weight:bold;">Silicon</td>
+            <td style="padding: 12px 10;">M2 and R1 dual-chip design</td>
+          </tr>
+          <tr style="border-bottom:1px solid #444; text-align:left;">
+            <td style="padding: 12px 0; color: #aaa; font-weight:bold;">Audio</td>
+            <td style="padding: 12px 10;">Spatial Audio / Personalized Sound</td>
+          </tr>
+          <tr style="border-bottom:1px solid #444; text-align:left;">
+            <td style="padding: 14px 0; color: #aaa; font-weight:bold;" width="33%">Battery</td>
+            <td style="padding: 12px 10;">Up to 2 hours of general use</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color='black' full-width="full-width" padding-bottom='0px'>
+      <mj-column width="100%">
+        <mj-social icon-size="40px" border-radius="50%" inner-padding="9px" padding="0px">
+          <mj-social-element name='youtube' background-color='Transparent' href='#'></mj-social-element>
+          <mj-social-element name='facebook' background-color='Transparent' href='#'></mj-social-element>
+          <mj-social-element name='twitter-noshare' background-color='Transparent' href='#'></mj-social-element>
+          <mj-social-element name='instagram' background-color='Transparent' href='#'></mj-social-element>
+          <mj-social-element name='linkedin' background-color='Transparent' href='#'></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="black" full-width="full-width" padding='0px'>
+      <mj-column vertical-align="middle" width="60%">
+        <mj-text color="white" align="center" font-size='13px' padding='0px'>Copyright © 2026 Apple Inc.all rights reserved</mj-text>
+      </mj-column>
+      <mj-column vertical-align="middle" width="40%">
+        <mj-text color="white" align="center" font-size='13px'><a style="color:white;" href="#">Unsubscribe</a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
