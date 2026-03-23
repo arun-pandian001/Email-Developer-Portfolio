@@ -8,7 +8,7 @@ Click the links below to see my responsive email designs in action:
 
 | Project Name | Live Preview | Source |
 | :--- | :--- | :--- |
-| Apple Vision Pro (Dark Mode Optimized) | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/apple-vision-pro.html) | [MJML](./apple-vision-pro.mjml) |
+| Apple Vision Pro (premium Dark-First Design) | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/apple-vision-pro.html) | [MJML](./apple-vision-pro.mjml) |
 | Vivo Promo | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/vivo-promo-email.html) | [MJML](./vivo-promo-email.mjml) |
 | Style Hub Sale | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/style-hub-flash-sale.html) | [MJML](./style-hub-flash-sale.mjml) |
 | Lifestyle Brand | [View Live](https://arun-pandian001.github.io/Email-Developer-Portfolio/lifestyle-brand-newsletter.html) | [MJML](./lifestyle-brand-newsletter.mjml) |
